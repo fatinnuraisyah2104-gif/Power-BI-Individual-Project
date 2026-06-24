@@ -19,6 +19,9 @@ www.linkedin.com/in/fatin-nuraisyah-mohamad-fuad-6275351a5
 
 ---
 
+![Gadget Sales Dashboard](GadgetDashboard.png)
+![Coffee Sales Dashboard](CoffeeDashboard.png)
+
 ### 🛠️ Data Analytics Toolkit
 * **Data Visualization:** Power BI Desktop, Microsoft Excel
 * **Core Competencies:** Power Query (ETL), DAX, Data Modeling, Custom Visual Integrations, Trend Analysis
