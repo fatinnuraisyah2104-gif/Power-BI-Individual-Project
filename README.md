@@ -20,6 +20,9 @@ An interactive Power BI dashboard designed to analyze global gadget sales, track
 * **Data Transformations:** Excel (Data cleaning and column splitting)
 * **Visuals Used:** Treemap, Sankey Chart, Funnel/Bar breakdown, Donut chart, KPI Cards.
 
+
+
+
 # International Coffee Sales Analytics ☕
 
 A multi-year sales analysis dashboard tracking customer demographics and quantity purchased across global regions (United States, Ireland, and United Kingdom) from 2019 to 2022.
