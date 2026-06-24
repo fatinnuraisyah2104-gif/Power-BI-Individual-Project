@@ -25,5 +25,6 @@ www.linkedin.com/in/fatin-nuraisyah-mohamad-fuad-6275351a5
 
 ## Gadget Sales Dashboard
 <img width="1128" height="642" alt="Gadget Dashboard" src="https://github.com/user-attachments/assets/63248e9d-89d9-43ac-913c-9bb78486628c" />
+
 ## Coffee Sales Dashboard
 <img width="1131" height="642" alt="Coffee Dashboard" src="https://github.com/user-attachments/assets/acac2cf0-25f3-4044-8ece-444e35c09d59" />
